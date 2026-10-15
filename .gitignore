@@ -1,0 +1,7 @@
+.env
+.flask_secret_key
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+reports/
